@@ -1,0 +1,1 @@
+Esse script gera a tabela atual do Brasileirão em png
